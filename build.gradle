@@ -30,4 +30,4 @@ task clean(type: Delete) {
 }
 
 group 'com.tuuzed.androidx'
-version '0.0.1'
+version '0.0.2'
